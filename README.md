@@ -96,7 +96,7 @@ Now, any changes to `src/` in the local `use-countdown-timer` or to the example 
 
 ## License
 
-MIT © [LobsterBandit](https://github.com/LobsterBandit)
+MIT © [KO1025](https://github.com/KO1025)
 
 ---
 
